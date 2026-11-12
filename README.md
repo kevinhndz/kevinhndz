@@ -1,4 +1,3 @@
-### 🚀
 <br><br>⚡ **Just a dev building stuff & breaking things to learn.**<br>
 ---
 
