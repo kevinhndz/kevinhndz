@@ -1,6 +1,5 @@
 ### 🚀 About Me
-Hi there, I'm Kevin 👋<br><br>💻 **Junior Software Engineer** with **3 years of experience** building, deploying, and maintaining software solutions independently.
-
+Kevin, here. 👋<br><br>⚡ **Just a dev building stuff & breaking things to learn.**<br>
 ---
 
 # 💻 Tech Stack:
