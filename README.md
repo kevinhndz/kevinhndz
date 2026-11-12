@@ -1,5 +1,5 @@
-### 🚀 About Me
-Kevin, here. 👋<br><br>⚡ **Just a dev building stuff & breaking things to learn.**<br>
+### 🚀
+<br><br>⚡ **Just a dev building stuff & breaking things to learn.**<br>
 ---
 
 # 💻 Tech Stack:
